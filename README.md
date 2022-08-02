@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kumarmanishpradhan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technology and Business management 
+- 🌱 I’m currently learning Computer Science and Engineering in Bachelor in Technology.
+- 💞️ I’m looking to collaborate on Tech projects 
+- 📫 How to reach me @kumarmanishpradhan
 
-<!---
-kumarmanishpradhan/kumarmanishpradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
